@@ -1,0 +1,44 @@
+[
+   {
+    "name": "facebook",
+    "users": 12345,
+    "ads": true,
+    "income": 414556999.44,
+    "short-video-form": false
+   },
+   {
+    "name": "Instagram",
+    "users": 123456,
+    "ads": true,
+    "income": 2242462424,
+    "short-video-form": true
+   },
+   {
+    "name": "TikTok",
+    "users": 1234567,
+    "ads": true,
+    "income": 999999,
+    "short-video-form": true
+   },  
+    {
+    "name": "Snapchat",
+    "users": 50,
+    "ads": true,
+    "income": 127,
+    "short-video-form": true
+   },
+   {
+    "name": "Twitter",
+    "users": 500000,
+    "ads": false,
+    "income": 100000,
+    "short-video-form": false
+   },
+   {
+    "name": "Reddit",
+    "users": 95000,
+    "ads": false,
+    "income": 100,
+    "short-video-form": false
+   }
+]
