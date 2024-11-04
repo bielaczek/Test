@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portale>
+    <portal>
+        <name>Facebook</name>
+        <release>2004</release>
+        <author>Mark Zuckerberg</author>
+        <users>3.07 bln</users>
+    </portal>
+    <portal>
+        <name>Instagram</name>
+        <release>2010</release>
+        <author>Kevin Systrome</author>
+        <users>2 bln</users>
+    </portal>
+    <portal>
+        <name>Snapchat</name>
+        <release>2011</release>
+        <author>Evan Spiegel</author>
+        <users>800 mln</users>
+    </portal>
+    <portal>
+        <name>NK</name>
+        <release>2006</release>
+        <author>Maciej Popowicz</author>
+        <users>0</users>
+    </portal>
+    <portal>
+        <name>Tiktok</name>
+        <release>2016</release>
+        <author>ByteDance</author>
+        <users>5.75 bln</users>
+    </portal>
+    <portal>
+        <name>LinkedIn</name>
+        <release>2003</release>
+        <author>Microsoft</author>
+        <users>1.2 bln</users>
+    </portal>
+</portale>
